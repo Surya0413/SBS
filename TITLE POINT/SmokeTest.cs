@@ -22,7 +22,7 @@ namespace TITLE_POINT
 
             BroserHandler.InitBrowser();
             BroserHandler.LoadApplication();
-
+             Thread.Sleep(1000);
         }
 
        // [Test]
