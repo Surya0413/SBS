@@ -22,6 +22,7 @@ namespace TITLE_POINT
 
             BroserHandler.InitBrowser();
             BroserHandler.LoadApplication();
+
         }
 
        // [Test]
